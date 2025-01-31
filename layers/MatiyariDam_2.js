@@ -1,0 +1,1 @@
+var json_MatiyariDam_2 = {"type":"FeatureCollection","name":"MatiyariDam_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name of Da":"Matiyari Dam"},"geometry":{"type":"Point","coordinates":[80.575826144000075,22.52148472600004]}}]}
